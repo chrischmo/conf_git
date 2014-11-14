@@ -3,3 +3,5 @@
 [user]
 	name = Christian Schmitt
 	email = chrischmo@gmail.com
+[push]
+	default = simple
